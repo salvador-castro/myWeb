@@ -208,12 +208,12 @@ figure {
         display: inline;
         list-style: none; }
         #salvacastro-aside .salvacastro-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          color: rgba(0, 0, 0, 0.3);
           padding: 4px; }
           #salvacastro-aside .salvacastro-footer ul li a:hover, #salvacastro-aside .salvacastro-footer ul li a:active, #salvacastro-aside .salvacastro-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: #2c98f0; }
+            color: #008cff; }
 
 .container-wrap {
   max-width: 1170px;
