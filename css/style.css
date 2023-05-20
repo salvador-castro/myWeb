@@ -559,7 +559,7 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #ec5453; }
+    background: #b81294; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
     background: #f9bf3f; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
@@ -633,9 +633,9 @@ body.offcanvas {
     font-size: 16px;
     font-weight: 500; }
   .services.color-2 {
-    border-bottom: 2px solid #ec5453; }
+    border-bottom: 2px solid #b81294; }
     .services.color-2 .icon2 i {
-      color: #ec5453; }
+      color: #b81294; }
   .services.color-3 {
     border-bottom: 2px solid #f9bf3f; }
     .services.color-3 .icon2 i {
@@ -648,6 +648,10 @@ body.offcanvas {
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
     border-bottom: 2px solid #4054b2; }
+  .services.color-7 {
+      border-bottom: 2px solid #ff0040; }
+  .services.color-8 {
+        border-bottom: 2px solid #436200; }
 
 .services {
   margin-bottom: 80px;
@@ -698,11 +702,11 @@ body.offcanvas {
       font-weight: 700;
       text-transform: uppercase; }
   .services.color-2 .icon {
-    background: #ec5453; }
+    background: #b81294; }
     .services.color-2 .icon:before {
-      border-color: transparent transparent #ec5453 transparent; }
+      border-color: transparent transparent #b81294 transparent; }
     .services.color-2 .icon:after {
-      border-color: #ec5453 transparent transparent transparent; }
+      border-color: #b81294 transparent transparent transparent; }
   .services.color-3 .icon {
     background: #f9bf3f; }
     .services.color-3 .icon:before {
@@ -727,6 +731,18 @@ body.offcanvas {
       border-color: transparent transparent #4054b2 transparent; }
     .services.color-6 .icon:after {
       border-color: #4054b2 transparent transparent transparent; }
+  .services.color-7 .icon {
+    background: #ff0040; }
+    .services.color-7 .icon:before {
+      border-color: transparent transparent #ff0040 transparent; }
+    .services.color-7 .icon:after {
+      border-color: #ff0040 transparent transparent transparent; }
+  .services.color-8 .icon {
+    background: #436200; }
+    .services.color-8 .icon:before {
+      border-color: transparent transparent #436200 transparent; }
+    .services.color-8 .icon:after {
+      border-color: #436200 transparent transparent transparent; }
 
 .progress-wrap h3 {
   font-size: 16px;
@@ -778,11 +794,11 @@ body.offcanvas {
     .progress-bar.color-1 span {
       color: #2c98f0; }
   .progress-bar.color-2 {
-    background: #ec5453; }
+    background: #b81294; }
     .progress-bar.color-2:after {
-      background: #ec5453; }
+      background: #b81294; }
     .progress-bar.color-2 span {
-      color: #ec5453; }
+      color: #b81294; }
   .progress-bar.color-3 {
     background: #f9bf3f; }
     .progress-bar.color-3:after {
@@ -807,6 +823,19 @@ body.offcanvas {
       background: #4054b2; }
     .progress-bar.color-6 span {
       color: #4054b2; }
+  .progress-bar.color-7 {
+    background: #ff0040; }
+    .progress-bar.color-7:after {
+      background: #ff0040; }
+    .progress-bar.color-7 span {
+      color: #ff0040; }
+  .progress-bar.color-8 {
+        background: #436200; }
+        .progress-bar.color-8:after {
+          background: #436200; }
+        .progress-bar.color-8 span {
+          color: #436200; }
+      
 
 .salvacastro-feature {
   text-align: left;
